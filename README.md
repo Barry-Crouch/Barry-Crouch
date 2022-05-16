@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UptinTech
+- 👋 Hi, I’m @UptinTech it stands for: Uptimization Intelligence Technology:)
 - 👀 I’m interested in Machine Learning, Deep Learnign and AI.
 - 🌱 I’m currently learning Flutter!
 
