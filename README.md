@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @UptinTech it stands for: Uptimization Intelligence Technology:)
-- 👀 I’m interested in Machine Learning, Deep Learnign and AI.
-- 🌱 I’m currently learning Flutter!
+- 👋 Hi, we're @iota-intel !
+- 👀 we are a group of data-scientists, trying to find AI solutions for industrial problems:)
+- 🌱 we're interested in Machine Learning, Deep Learnign and AI.
 
 <!---
 UptinTech/UptinTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
