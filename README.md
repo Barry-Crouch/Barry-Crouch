@@ -1,8 +1,4 @@
-- 👋 Hi, we're @iota-intel !
-- 👀 we are a group of data-scientists, trying to find AI solutions for industrial problems:)
-- 🌱 we're interested in Machine Learning, Deep Learnign and AI.
+- 👋 Hi, we're @BarryCrouch !
+- 👀 I'm a 4 years experienced machine learning engineer & python developer.
+- 🌱 I'm a professional data scientist and I am quit familiar with tools such as sklearn, tensorflow, pytorch, google colab, etc.
 
-<!---
-UptinTech/UptinTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
